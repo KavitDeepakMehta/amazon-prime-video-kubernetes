@@ -30,7 +30,7 @@
 
 ## 📂 **Code Repository**
 Explore the code and contribute to the project:  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/KavitDeepakMehta/amazon-prime-video-kubernetes.git))
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)][(https://github.com/KavitDeepakMehta/amazon-prime-video-kubernetes.git)]
 
 
 Install Docker Scout:
